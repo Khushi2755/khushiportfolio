@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Amazon Clone ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Amazon Clone project is a web application built using HTML, CSS, and JavaScript. It replicates the core functionality of the Amazon website, including product listings, a shopping cart. The project demonstrates my skills in front-end development and attention to detail in recreating a seamless e-commerce experience",
+    url: "https://khushi2755.github.io/Amazon-Clone/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Text To Speech Converter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Text to Speech Converter project is a web application developed using HTML, CSS, and JavaScript. It allows users to input text, which is then converted into spoken words using browser-based speech synthesis. This project highlights my ability to integrate web technologies with interactive functionality to enhance accessibility and user experience.",
+    url: "https://khushi2755.github.io/texttospeech/",
   },
   {
-    title: "My Resume Site",
+    title: "My Web Development Journey",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "I am a student from IIIT TRICHY , in initial days i am very confused about where to start but then my seniors helped me alot and i completed by DSA in C++ and then i started my WEB DEVELOPMENT journey in my 4 semester and i successfully completed the FRONT END part from a paid course and now currently am learning the BACK END part.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Movable Mouse",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Movable Mouse project is an interactive web application built using HTML.It tracks and visually represents the movement of the mouse cursor on the screen, providing a dynamic and engaging user experience. This project showcases my skills in event handling and real-time updates in web development.",
+    url: "https://khushi2755.github.io/movablemouse/",
   },
 ];
 
